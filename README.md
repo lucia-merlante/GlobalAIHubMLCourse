@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# Lucia Merlante repo
 ![](img/logo.png)
 
 **Course Date:**
